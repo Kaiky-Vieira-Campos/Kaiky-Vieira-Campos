@@ -2,7 +2,7 @@
 
 🏃‍♂️- Cursando Analise e desenvolvimento de sistemas pela ESTACIO
 
-📚- Atualmente estudo JavaScript/Phyton/HTML/CSS
+📚- Conhecimento em JavaScript/Phyton/HTML/CSS/SQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaiky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
